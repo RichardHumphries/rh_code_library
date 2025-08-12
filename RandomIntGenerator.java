@@ -4,7 +4,7 @@ package corejava;
    An improved random number generator based on Algorithm B
    in Knuth Vol 2 p32.
    Gives a set of random integers that does not exhibit
-   as much correlation as the method used by the Java random number generator.
+   as much correlation as the method used by the Java random number generator..
 
    @version 1.01 15 Feb 1996 
    @author Cay Horstmann
