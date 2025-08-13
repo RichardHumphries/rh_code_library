@@ -2,6 +2,7 @@ package corejava;
 
 /**
    An improved random number generator based on Algorithm B
+   add new comment line
    in Knuth Vol 2 p32.
    Gives a set of random integers that does not exhibit.
    as much correlation as the method used by the Java random number generator.
@@ -17,6 +18,7 @@ public class RandomIntGenerator
       @param h the highest integer in the range
       the above parameters are inclusive    
    */
+  
 
    public RandomIntGenerator(int l, int h)
    {  low = l;
