@@ -4,7 +4,7 @@ import java.util.*;
 import java.io.*;
 
 /**
-   Stores dates and perform date arithmetic.
+   Stores dates and perform date arithmetic. test comments
 
    This is another date class, but more convenient that 
    <tt>java.util.Date</tt> or <tt>java.util.Calendar</tt>
